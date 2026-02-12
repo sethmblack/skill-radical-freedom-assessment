@@ -1,12 +1,10 @@
 ---
 name: radical-freedom-assessment
-description: Analyze what genuine freedom exists within a constrained situation by
-  distinguishing facticity (the unchangeable givens) from transcendence (the capacity
-  to choose meaning and response). Neither de...
+description: Analyze what genuine freedom exists within a constrained situation by distinguishing facticity (the unchangeable givens) from transcendence (the capacity to choose meaning and response). Neither de...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - radical-freedom-assessment
 - writing
